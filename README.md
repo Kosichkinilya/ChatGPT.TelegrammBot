@@ -1,1 +1,1 @@
-Integration of ChatGPT into Telegramm bot
+Integration of ChatGPT into Telegram bot
